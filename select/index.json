@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "☪ QUEEN ／歌ってみた。by天月",
+  "base_artist": "天月-あまつき-",
+  "createdAt": "2026-01-06T07:43:41.119838Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "☪ミリオンダラードリーマー",
+      "artist": "天月",
+      "has_synced": false,
+      "path": "select/pl_01_☪ミリオンダラードリーマー_天月.txt"
+    }
+  ]
+}
